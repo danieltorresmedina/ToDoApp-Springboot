@@ -1,0 +1,21 @@
+# Backend
+target/
+*.class
+*.log
+*.jar
+*.war
+*.db
+*.h2.db
+
+# Frontend
+node_modules/
+dist/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
